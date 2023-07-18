@@ -1,0 +1,7 @@
+Nombres y Apellidos: Renzo Zavala
+Cargo: Jefe de ventas
+Sueldo: S/ 6000.00
+Mes: Mayo 2021
+Días Trabajados: 31
+Días No trabajados:
+

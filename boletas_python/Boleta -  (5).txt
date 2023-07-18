@@ -1,0 +1,7 @@
+Nombres y Apellidos: Humberto Cueva
+Cargo: Desarrollador 
+Sueldo: S/ 4000.00
+Mes: Mayo 2021
+Días Trabajados: 31
+Días No trabajados:
+

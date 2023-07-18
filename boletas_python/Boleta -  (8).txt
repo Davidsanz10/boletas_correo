@@ -1,0 +1,7 @@
+Nombres y Apellidos: Alberto Ruiz Diaz
+Cargo: Secretario General
+Sueldo: S/ 3000.00
+Mes: Mayo 2021
+Días Trabajados: 31
+Días No trabajados:
+

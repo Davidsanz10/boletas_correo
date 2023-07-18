@@ -1,0 +1,7 @@
+Nombres y Apellidos: Junior Balcazar
+Cargo: Jefe de Operaciones
+Sueldo: S/ 5000.00
+Mes: Mayo 2021
+Días Trabajados: 31
+Días No trabajados:
+

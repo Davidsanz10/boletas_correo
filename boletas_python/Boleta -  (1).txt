@@ -1,0 +1,7 @@
+Nombres y Apellidos: Carlos Alberto Sanchez
+Cargo: Secretario General
+Sueldo: S/ 3000.00
+Mes: Mayo 2021
+Días Trabajados: 31
+Días No trabajados:
+
